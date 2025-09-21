@@ -75,7 +75,7 @@ Download the installer from GitHub Releases
  and add the installation path (e.g., C:\Program Files\Tesseract-OCR) to your system environment variables.
 
 Running the App
-streamlit run app.py
+streamlit run Payslip.py
 
 
 This will launch a local web interface in your browser.
